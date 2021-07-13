@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_find_people"
+            android:icon="@drawable/ic_baseline_explore_24"
+            android:title="Find People" />
+        <item
+            android:id="@+id/nav_add_people"
+            android:icon="@drawable/ic_baseline_person_add_24"
+            android:title="Friend Request" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+    </group>
+    <item android:title="System">
+        <menu>
+            <item
+                android:id="@+id/nav_sign_Out"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Sign Out">
+
+            </item>
+
+
+        </menu>
+
+    </item>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334796910207",
+    "project_id": "androidrealtimelocation2021",
+    "storage_bucket": "androidrealtimelocation2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334796910207:android:73ddeb4590bf121988d94a",
+        "android_client_info": {
+          "package_name": "com.example.androidrealtimelocation2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334796910207-505080har35eqjkcb8j4e0difkbi50hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8yvuUAbl8D_TS3WDOSNVBihResSNNXxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334796910207-505080har35eqjkcb8j4e0difkbi50hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
