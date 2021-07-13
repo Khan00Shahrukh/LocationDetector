@@ -14,7 +14,7 @@ import retrofit2.http.POST;
 public interface IFCMService {
     @Headers({
             "Content-Type:application/json",
-            "Authorization:key=AAAATfNzbn8:APA91bFr_YVN4IhDwZi9OfpIOkmK_oVVbPR5zIlNrDhXdaASVPHYUoCOiFbs-nvG7Icivd5z0EvjeQNuV8-htRcj3no8bHfMU3NwmqV-oYVg2xrCksITFphyqBBdebfPylmbMrb3j-Eq"
+            "Authorization:key=BuildConfig.ApiKey"
             //Cloud Messaging key
 
     })
